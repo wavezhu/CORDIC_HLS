@@ -1,6 +1,6 @@
 # CORDIC_HLS
 
-根据Xilinx提供的[教学课程](https://v.qq.com/x/page/u0516mz22q4.html)，建立相应的工程，添加HLS程序和测试数据。相关原理教程请查看[博客](https://github.com/wavezhu/CORDIC_HLS)。
+根据Xilinx提供的[教学课程](https://v.qq.com/x/page/u0516mz22q4.html)，建立相应的工程，添加HLS程序和测试数据。相关原理教程请查看[博客](https://wavezhu.github.io/post/16442f6b.html)。
   
 实验程序存放在hls_code目录中。使用ViVado HLS运行run_hls.tcl脚本，就能建立工程进行仿真。工程中使用的测试数据存放在script目录中，使用Python语言编写。
   
